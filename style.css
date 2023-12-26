@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+* {
+  background-color: #000;
+  color: #fff;
+
+}
+
+h1,h4 {
+    text-align: center;
+    color: #fff;
+}
+
+#nasheed-list {
+    margin-top: 20px;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #00a9e2;
+  text-align: center;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+li {
+      width: 80%; /* Adjust the width as needed */
+      margin: 0 auto; /* Center the container horizontally */
+      padding: 20px; /* Add padding inside the container */
+      border: 1px solid #00a9e2; /* Optional: Add a border for visualization */
+      box-sizing: border-box; /* Include padding and border in the width calculation */
+  border-radius: 10px; 
+  margin-bottom: 15px;
+}
