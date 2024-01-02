@@ -3,8 +3,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     const nasheeds = [
     { title: 'Esber | أصبر', href: '//mohamad.is-a.dev/n/esber.mp3' },
-    { titlconst nasheeds = [
-    { title: 'Esber | أصبر', href: '//mohamad.is-a.dev/n/esber.mp3' },
     { title: 'Haza Omar | هذا عمر', href: '//mohamad.is-a.dev/n/haza-omar.mp3' },
     { title: 'Tora Bora | تورا بورا', href: '//mohamad.is-a.dev/n/tora-bora.mp3' },
    { title: 'Qad Tasama | قد تساما', href: '//mohamad.is-a.dev/n/qadtasama.mp3' },
