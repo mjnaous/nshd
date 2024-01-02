@@ -37,12 +37,4 @@ document.addEventListener('DOMContentLoaded', function () {
         nasheedList.appendChild(listItem);
     });
 
-    // Function to download nasheed
-    function downloadNasheed(index) {
-        const selectedNasheed = nasheeds[index];
-        const link = document.createElement('a');
-        link.href = selectedNasheed.src;
-        link.download = `${selectedNasheed.title}.mp3`;
-        link.click();
-    }
-});
+    
