@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const nasheedList = document.getElementById('nasheed-list');
 
     const nasheeds = [
-    { title: 'Esber | أصبر', href: '//mohamad.is-a.dev/n/esber.mp3' },
+    { title: 'Esber | أصبر', href: '//gh.naous.eu.org/n/esber.mp3' },
     { title: 'Haza Omar | هذا عمر', href: '//gh.naous.eu.org/n/haza-omar.mp3' },
     { title: 'Tora Bora | تورا بورا', href: '//gh.naous.eu.org/n/tora-bora.mp3' },
    { title: 'Qad Tasama | قد تساما', href: '//gh.naous.eu.org/n/qadtasama.mp3' },
